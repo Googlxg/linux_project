@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tangcupaigu.jpg</file>
+        <file>yuxiangrousi.jpg</file>
+        <file>baicaifentiao.jpg</file>
+        <file>dongporou.jpg</file>
+        <file>gongbaojiding.jpg</file>
+        <file>hongshaozhuti.jpg</file>
+        <file>qingjiaojidan.jpg</file>
+        <file>roumofentiao.jpg</file>
+        <file>tudousi.jpg</file>
+        <file>zhamogu.jpg</file>
+        <file>wifi.jpg</file>
+    </qresource>
+</RCC>
